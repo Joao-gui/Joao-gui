@@ -2,7 +2,7 @@
 ### Olá, João Guilherme aqui 👋
 Engenheiro Eletricista e apaixonado por tecnologia. Atualmente sou Coordenador de projetos em empresa de Telecom e já trabalhei como programador JAVA.
 
-Pós-graduado em Gerenciamento de Projetos e Engenharia Elétrica e Sistemas de Energia, e cursando pós-graduação em Internet das Coisas onde eu me encontrei.
+Pós-graduado em Gerenciamento de Projetos e Engenharia Elétrica e Sistemas de Energia, cursando pós-graduação em Internet das Coisas onde eu me encontrei.
 
 - 💻 Apaixonado por tecnologia
 - 🕹️ Vídeo Game como hobby
@@ -40,7 +40,7 @@ Pós-graduado em Gerenciamento de Projetos e Engenharia Elétrica e Sistemas de 
 ### Hello, João Guilherme here 👋
 Electrical Engineer and passionate about technology. I am currently a Project Coordinator at a Telecom company and have worked as a JAVA programmer.
 
-Postgraduate in Project Management and Electrical Engineering and Energy Systems, and studying postgraduate studies in Internet of Things where I found myself.
+Postgraduate in Project Management and Electrical Engineering and Energy Systems, studying postgraduate studies in Internet of Things where I found myself.
 
 - 💻 Passionate about technology
 - 🕹️ Video Game as a hobby
