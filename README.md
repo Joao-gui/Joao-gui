@@ -23,6 +23,8 @@ Pós-graduado em Gerenciamento de Projetos e Engenharia Elétrica e Sistemas de 
 <a href="https://github.com/Joao-gui/C1-Game.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
 - **Sistema de cadastro e compra de produtos para mercado:**
 <a href="https://github.com/Joao-gui/C2-Mercado.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+- **Projeto Contador 7 segmentos:**
+<a href="https://github.com/Joao-gui/Counter_7seg.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
 
 ---
 
@@ -60,6 +62,8 @@ Postgraduate in Project Management and Electrical Engineering and Energy Systems
 <a href="https://github.com/Joao-gui/C1-Game.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
 - **Product registration and purchasing system for the market:**
 <a href="https://github.com/Joao-gui/C2-Mercado.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+- **Counter 7 Seg.:**
+<a href="https://github.com/Joao-gui/Counter_7seg.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
 
 ---
 
