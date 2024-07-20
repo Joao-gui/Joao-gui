@@ -1,8 +1,8 @@
 # PT-BR
 ### Olá, João Guilherme aqui 👋
-Engenheiro Eletricista e apaixonado por tecnologia. Atualmente sou Coordenador de projetos em empresa de Telecom e já trabalhei como programador JAVA.
+Engenheiro Eletricista e apaixonado por tecnologia. Atualmente sou Coordenador de projetos em empresa de Telecom e já trabalhei como programador JAVA e analista de teste automatizado em Ruby.
 
-Pós-graduado em Gerenciamento de Projetos e Engenharia Elétrica e Sistemas de Energia, cursando pós-graduação em Internet das Coisas onde eu me encontrei.
+Pós-graduado em Gerenciamento de Projetos e Internet das Coisas, atualmente estudando programação C e Python para poder fazer carreira nesta área de programação.
 
 - 💻 Apaixonado por tecnologia
 - 🕹️ Vídeo Game como hobby
@@ -12,7 +12,7 @@ Pós-graduado em Gerenciamento de Projetos e Engenharia Elétrica e Sistemas de 
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
@@ -32,16 +32,16 @@ Pós-graduado em Gerenciamento de Projetos e Engenharia Elétrica e Sistemas de 
 <a href="https://www.linkedin.com/in/joao-guilherme-pellacani/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/jaum.gui001/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://www.facebook.com/joao.guilherme.58555"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-<a href="https://twitter.com/Joao201021"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://twitter.com/Joao201021"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
 
 
 ---
 
 # ENG
 ### Hello, João Guilherme here 👋
-Electrical Engineer and passionate about technology. I am currently a Project Coordinator at a Telecom company and have worked as a JAVA programmer.
+Electrical Engineer and passionate about technology. I am currently a Project Coordinator at a Telecom company and have worked as a JAVA programmer and automated tester analyst in Ruby.
 
-Postgraduate in Project Management and Electrical Engineering and Energy Systems, studying postgraduate studies in Internet of Things where I found myself.
+Postgraduate in Project Management and Internet of Things, studing C and Python to be able to make career in this area.
 
 - 💻 Passionate about technology
 - 🕹️ Video Game as a hobby
@@ -51,7 +51,7 @@ Postgraduate in Project Management and Electrical Engineering and Energy Systems
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
@@ -71,4 +71,4 @@ Postgraduate in Project Management and Electrical Engineering and Energy Systems
 <a href="https://www.linkedin.com/in/joao-guilherme-pellacani/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/jaum.gui001/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://www.facebook.com/joao.guilherme.58555"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-<a href="https://twitter.com/Joao201021"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://twitter.com/Joao201021"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
