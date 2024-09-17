@@ -34,7 +34,6 @@ Pós-graduado em Gerenciamento de Projetos e Internet das Coisas, atualmente est
 <a href="https://www.linkedin.com/in/joao-guilherme-pellacani/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/jaum.gui001/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://www.facebook.com/joao.guilherme.58555"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-<a href="https://twitter.com/Joao201021"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
 
 
 ---
@@ -74,4 +73,3 @@ Postgraduate in Project Management and Internet of Things, studing C and Python 
 <a href="https://www.linkedin.com/in/joao-guilherme-pellacani/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/jaum.gui001/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://www.facebook.com/joao.guilherme.58555"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-<a href="https://twitter.com/Joao201021"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
