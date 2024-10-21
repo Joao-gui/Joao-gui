@@ -1,6 +1,6 @@
 # PT-BR
 ### Olá, João Guilherme aqui 👋
-Engenheiro Eletricista e apaixonado por tecnologia. Atualmente sou Coordenador de projetos em empresa de Telecom e já trabalhei como programador JAVA e analista de teste automatizado em Ruby.
+Engenheiro Eletricista e apaixonado por tecnologia. Atualmente sou Supervisor de Projetos em empresa de Telecom e já trabalhei como programador JAVA e analista de teste automatizado em Ruby.
 
 Pós-graduado em Gerenciamento de Projetos e Internet das Coisas, atualmente estudando programação C e Python para poder fazer carreira nesta área de programação.
 
@@ -40,7 +40,7 @@ Pós-graduado em Gerenciamento de Projetos e Internet das Coisas, atualmente est
 
 # ENG
 ### Hello, João Guilherme here 👋
-Electrical Engineer and passionate about technology. I am currently a Project Coordinator at a Telecom company and have worked as a JAVA programmer and automated tester analyst in Ruby.
+Electrical Engineer and passionate about technology. I am currently a Project Manager at a Telecom company and have worked as a JAVA programmer and automated tester analyst in Ruby.
 
 Postgraduate in Project Management and Internet of Things, studing C and Python to be able to make career in this area.
 
