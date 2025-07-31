@@ -26,12 +26,12 @@ Engenheiro Eletricista e apaixonado por tecnologia.
 
 ---
 ### Alguns portifólios 📑
-- **Jogo Matemática em C:**
-<a href="https://github.com/Joao-gui/C1-Game.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-- **Sistema de cadastro e compra de produtos para mercado:**
-<a href="https://github.com/Joao-gui/C2-Mercado.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-- **Projeto Contador 7 segmentos:**
-<a href="https://github.com/Joao-gui/Counter_7seg.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+- **Estudo do Dataset Daily Minimum Temps com MLPRegressor:**
+<a href="https://github.com/Joao-gui/MLPRegressor_exe.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+- **Estudo do Dataset Breast Cancer (Kangle) com Algoritimos de Classificação Supervisionada:**
+<a href="https://github.com/Joao-gui/breast_cancer.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+- **Códigos Beecrowd (Python):**
+<a href="https://github.com/Joao-gui/beecrowd_python.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
 
 ---
 
@@ -71,12 +71,12 @@ Electrical Engineer and passionate about technology.
 
 ---
 ### Some portfolios 📑
-- **Math game in C:**
-<a href="https://github.com/Joao-gui/C1-Game.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-- **Product registration and purchasing system for the market:**
-<a href="https://github.com/Joao-gui/C2-Mercado.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-- **Counter 7 Seg.:**
-<a href="https://github.com/Joao-gui/Counter_7seg.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+- **Study of the Daily Minimum Temps Dataset with MLPRegressor:**
+<a href="https://github.com/Joao-gui/MLPRegressor_exe.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+- **Study of the Breast Cancer Dataset (Kangle) with Supervised Classification Algorithms:**
+<a href="https://github.com/Joao-gui/breast_cancer.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+- **Beecrowd Codes (Python):**
+<a href="https://github.com/Joao-gui/beecrowd_python.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
 
 ---
 
