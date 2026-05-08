@@ -12,7 +12,7 @@ Cientista de dados e apaixonado por tecnologia.
 ### Alguns portifólios 📑
 - **Chatbot de Análise de Crédito:**
 <a href="https://github.com/Joao-gui/ChatbotCredito.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-- **Aprendizado de máquinas e séries temporais para prever o consumo de energia elétrica nas próximas horas ou dias.:**
+- **Predição do consumo de energia elétrica nas próximas horas ou dias:**
 <a href="https://github.com/Joao-gui/EnergyForecast.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
 - **Códigos Beecrowd (Python):**
 <a href="https://github.com/Joao-gui/beecrowd_python.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
@@ -41,7 +41,7 @@ Data Scientist and passionate about technology.
 ### Some portfolios 📑
 - **Credit Analysis Chatbot:**
 <a href="https://github.com/Joao-gui/ChatbotCredito.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-- **Machine learning and time series analysis are used to predict electricity consumption in the coming hours or days:**
+- **Prediction of electricity consumption in the coming hours or days:**
 <a href="https://github.com/Joao-gui/EnergyForecast.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
 - **Beecrowd Codes (Python):**
 <a href="https://github.com/Joao-gui/beecrowd_python.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
