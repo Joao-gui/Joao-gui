@@ -1,6 +1,6 @@
 # PT-BR
 ### Olá, João Guilherme aqui 👋
-Engenheiro Eletricista e apaixonado por tecnologia.
+Cientista de dados e apaixonado por tecnologia.
 
 - 💻 Apaixonado por tecnologia
 - 🕹️ Vídeo Game como hobby
@@ -10,10 +10,10 @@ Engenheiro Eletricista e apaixonado por tecnologia.
 
 ---
 ### Alguns portifólios 📑
-- **Projeto: Chatbot de Análise de Crédito:**
+- **Chatbot de Análise de Crédito:**
 <a href="https://github.com/Joao-gui/ChatbotCredito.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-- **Estudo do Dataset Breast Cancer (Kangle) com Algoritimos de Classificação Supervisionada:**
-<a href="https://github.com/Joao-gui/breast_cancer.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+- **Aprendizado de máquinas e séries temporais para prever o consumo de energia elétrica nas próximas horas ou dias.:**
+<a href="https://github.com/Joao-gui/EnergyForecast.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
 - **Códigos Beecrowd (Python):**
 <a href="https://github.com/Joao-gui/beecrowd_python.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
 
@@ -29,7 +29,7 @@ Engenheiro Eletricista e apaixonado por tecnologia.
 
 # ENG
 ### Hello, João Guilherme here 👋
-Electrical Engineer and passionate about technology. 
+Data Scientist and passionate about technology. 
 
 - 💻 Passionate about technology
 - 🕹️ Video Game as a hobby
@@ -39,10 +39,10 @@ Electrical Engineer and passionate about technology.
 
 ---
 ### Some portfolios 📑
-- **Study of the Daily Minimum Temps Dataset with MLPRegressor:**
-<a href="https://github.com/Joao-gui/MLPRegressor_exe.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-- **Study of the Breast Cancer Dataset (Kangle) with Supervised Classification Algorithms:**
-<a href="https://github.com/Joao-gui/breast_cancer.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+- **Credit Analysis Chatbot:**
+<a href="https://github.com/Joao-gui/ChatbotCredito.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+- **Machine learning and time series analysis are used to predict electricity consumption in the coming hours or days:**
+<a href="https://github.com/Joao-gui/EnergyForecast.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
 - **Beecrowd Codes (Python):**
 <a href="https://github.com/Joao-gui/beecrowd_python.git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
 
